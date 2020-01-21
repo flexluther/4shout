@@ -1,2 +1,2 @@
 # 4shout
-4chan style shoutbox
+A shoutbox written in PHP styled to look like a certain mongolian fishing forum.
