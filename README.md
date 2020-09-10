@@ -7,8 +7,7 @@ The only thing you need is a server with PHP installed.  It's extremely portable
 ## How do I install it?
 Take all the folders from the github repo and upload it to your server.  That's it.
 
-## Where can I try it?
-You can try it on http://getgle.ga
+---
+All Getgle software is no longer maintained. If you encounter any bugs you will have to fix them yourself.
+If you want to learn more then visit the getgle memorial at http://getgle.org
 
-
-If you are currently running 4shout, please tell me so I can link it here.
