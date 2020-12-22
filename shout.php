@@ -13,7 +13,7 @@ $postHTML = str_replace("<_POSTNUM_>",$postNum, $postHTML);
 $postHTML = str_replace("<_POSTDATE_>",date("Y/m/d g:i:s"), $postHTML);
 
 // greentext
-if(preg_match("/&gt;/", $postText) == 1){
+if(preg_match("/&gt;./", $postText) == 1){
 	$postHTML = str_replace("style=''","style='color: green;'", $postHTML);
 }
 
