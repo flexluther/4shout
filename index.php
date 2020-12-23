@@ -15,4 +15,4 @@
 <?php
 echo file_get_contents("posts.html");
 ?>
-<span id="powered">proudly powered by <a href="https://github.com/js6">4shout</a></span>
+<span id="powered">proudly powered by <a href="https://github.com/getgle/4shout">4shout</a></span>
